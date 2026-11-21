@@ -9,7 +9,7 @@ sites:
 status-website:
   cname: status.shudoseitokai.com
   name: 修道中学校・修道高等学校 生徒会Webサイト稼働状況
-  logoUrl: https://statsu.shudoseitokai.com//favicon.svg
+  logoUrl: https://statsu.shudoseitokai.com/favicon.svg
   introTitle: "**Webサイト稼働状況**"
   introMessage: 修道中学校・修道高等学校 生徒会Webサイト稼働状況を確認することができます。
   footer: © 修道中学校・修道高等学校 生徒会
